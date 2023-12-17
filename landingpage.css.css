@@ -156,7 +156,7 @@ a.active, a:hover {
   padding-top: 200px;
   width: 100%;
   height: 100vh;
-  background-image: url(/images/FeaturedImage.jpg);
+  background-image: url(images/FeaturedImage.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -170,7 +170,7 @@ a.active, a:hover {
   height: 100vh;
   align-content: center;
   justify-items: space-between;
-  background-image: url(/images/Aboutcontent.jpg);
+  background-image: url(images/Aboutcontent.jpg);
   font-size: xx-large;
   background-size: 50%;
   background-position: bottom;
@@ -187,7 +187,7 @@ a.active, a:hover {
   font-size: xx-large;
   justify-content: space-between;
   background-color: #78C4FE;
-  background-image: url(/images/htmlcssjs.jpeg);
+  background-image: url(images/htmlcssjs.jpeg);
   background-position: bottom;
   background-size: 50%;
   background-repeat: no-repeat;
@@ -201,7 +201,7 @@ a.active, a:hover {
   font-size: x-large;
   justify-content: space-between;
   background-color: #78C4FE;
-  background-image: url(/images/Map.jpg);
+  background-image: url(images/Map.jpg);
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: 50%;
