@@ -62,16 +62,6 @@ a.active, a:hover {
   display: none;
 }
 
-@media (max-width: 750px) {
-
-  .container {
-    width: 100%;
-    padding-right: 220px;
-    background-size: cover;
-    background-position: center;
-  }
-
-}
 @media (max-width: 850px) {
 
   .check-btn {
@@ -172,8 +162,8 @@ a.active, a:hover {
   justify-items: space-between;
   background-image: url(images/Aboutcontent.jpg);
   font-size: xx-large;
-  background-size: 50%;
-  background-position: bottom;
+  background-size: 100%;
+  background-position: center;
   background-repeat: no-repeat;
   background-color: #78C4FE;
 
@@ -188,8 +178,8 @@ a.active, a:hover {
   justify-content: space-between;
   background-color: #78C4FE;
   background-image: url(images/htmlcssjs.jpeg);
-  background-position: bottom;
-  background-size: 50%;
+  background-position: center;
+  background-size: 100%;
   background-repeat: no-repeat;
  }
 
@@ -204,7 +194,7 @@ a.active, a:hover {
   background-image: url(images/Map.jpg);
   background-repeat: no-repeat;
   background-position: bottom;
-  background-size: 50%;
+  background-size: 100%;
   
 
  }
